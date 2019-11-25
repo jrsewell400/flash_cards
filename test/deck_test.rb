@@ -27,8 +27,3 @@ class DeckTest < Minitest::Test
   end
 
 end
-
-# deck.count
-# deck.cards_in_category(:STEM)
-# deck.cards_in_category(:Geography)
-# deck.cards_in_category("Pop Culture")
