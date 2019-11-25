@@ -21,7 +21,7 @@ class DeckTest < Minitest::Test
     assert_equal Deck, cards
   end
 
-  def test_it_hasa_deck
+  def test_it_has_a_deck
     skip
     deck = Deck.new(cards)
   end
