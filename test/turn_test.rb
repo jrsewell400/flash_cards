@@ -20,5 +20,4 @@ class TurnTest < Minitest::Test
     assert_equal "Mercury", card.answer
     assert_equal "Saturn", turn.guess
   end
-
 end
